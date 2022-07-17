@@ -14,7 +14,7 @@ body {
     margin: 56px auto 48px auto;
     max-width: 80vw;
     font-family: 'Nunito Sans', sans-serif;
-    color: var(--grey);
+    color: var(--blue);
     font-size: 16px;
     line-height: 1.5;
 }
@@ -81,11 +81,11 @@ a {
 
 a:hover,
 a.selected {
-    color: var(--grey);
+    color: var(--blue);
 }
 
 a.selected {
-    border-bottom: 2px solid var(--grey);
+    border-bottom: 2px solid var(--blue);
 }
 
 section {
@@ -171,7 +171,7 @@ textarea {
 }
 
 button {
-    background-color: var(--grey);
+    background-color: var(--blue);
     color: var(--pink);
     border: none;
     font-size: 20px;
